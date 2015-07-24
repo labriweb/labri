@@ -1,0 +1,7 @@
+MIGRATIONS
+==========
+
+php artisan make:migration create_contacto_table
+
+SEEDS
+=====
