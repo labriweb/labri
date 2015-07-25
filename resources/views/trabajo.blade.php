@@ -17,10 +17,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 margin-bottom">
-						<h1 class="title-bottom-line"><strong>TIMELINE</strong> OF MEDICINA</h1>
-						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use <strong class="turquaz">Lorem Ipsum</strong> as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-						<p> There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </p>
-						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use <strong class="turquaz">Lorem Ipsum</strong> as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+						<!-- <h1 class="title-bottom-line"><strong>Nuestro</strong> trabajo</h1> -->
+						<p>Actualmente las líneas de investigación y desarrollo de nuestro trabajo están fuertemente vinculadas a los objetivos educacionales planteados por la Unidad Académica en el marco de una amplia oferta académica.</p>
+
 					</div>
 				</div> 
 			</div>
@@ -29,78 +28,66 @@
 		<section class="home-services text-center no-padding">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-6 col-sm-3">
+					<div class="col-xs-4">
 						<div class="content">
 							<div class="line">
 								<div class="icon">
 									<img src="{{ asset('./css/images/icon1.png')}}" alt="Icon">
 								</div>
 							</div>
-							<h3>CARDIOLOGY</h3>
-							<p>Consectetuer adipiscing elit, sed diam nonummy</p>
+							<h3>Modelos estáticos</h3>
+							<p>Se trata de maquetas anatómicas en diferentes escalas producidas a partir de resinas epoxi de alto impacto para la mostración de distintas estructuras y regiones topográficas.</p>
 						</div>
 					</div>
 
-					<div class="col-xs-6 col-sm-3">
+					<div class="col-xs-4">
 						<div class="content">
 							<div class="line">
 								<div class="icon">
 									<img src="{{ asset('./css/images/icon2.png')}}" alt="Icon">
 								</div>
 							</div>
-							<h3>OPHTHALMOLOGY</h3>
-							<p>Consectetuer adipiscing elit, sed diam nonummy</p>
+							<h3>Modelos dinámicos</h3>
+							<p>Son modelos interactivos que permiten que el usuario tome un rol activo participando en secuencias de esmble-desensamble secuencial y por planos logrando una comprensión abarcativa de las estructuras con las que trabaja.</p>
 						</div>
 					</div>
 
-					<div class="col-xs-6 col-sm-3">
+					<div class="col-xs-4">
 						<div class="content">
 							<div class="line">
 								<div class="icon">
 									<img src="{{ asset('./css/images/icon3.png')}}" alt="Icon">
 								</div>
 							</div>
-							<h3>NEUROLOGY</h3>
-							<p>Consectetuer adipiscing elit, sed diam nonummy</p>
+							<h3>Multicortes axiales</h3>
+							<p>Son modelos estáticos que reproducen planos de sección de regiones anatómicas y estructuras que permiten este abordaje facilitando la comprensión en tridimensional de las mismas.</p>
 						</div>
 					</div>
 
-					<div class="col-xs-6 col-sm-3">
+					<div class="col-xs-6">
 						<div class="content">
 							<div class="icon">
 								<img src="{{ asset('./css/images/icon4.png')}}" alt="Icon">
 							</div>
-							<h3>DERMATOLOGY</h3>
-							<p>Consectetuer adipiscing elit, sed diam nonummy</p>
+							<h3>Simuladores</h3>
+							<p>Se trata de modelos que no solo representan una región topográfica o estructura determinada que, por su complejidad, permiten la práctica de maniobras (inspección y palpación) y procedimientos (punciones, accesos quirúrgicos, etc.) lo que favorece la adquisición de habilidades vinculadas al ejercicio profesional.</p>
+						</div>
+					</div>
+
+					<div class="col-xs-6">
+						<div class="content">
+							<div class="icon">
+								<img src="{{ asset('./css/images/icon4.png')}}" alt="Icon">
+							</div>
+							<h3>Macromodelos</h3>
+							<p>Constituyen reproducciones de estructuras y/o regiones topográficas, por lo general interactivas, que se producen a gran escala.</p>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
 
-		<section class="inner-content">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12 margin-bottom">
-						<h1 class="title-bottom-line"><strong>MEDICINA</strong> VISION</h1>
-						<p> There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. </p><br>
-						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use <strong class="turquaz">Lorem Ipsum</strong> as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-					</div>
-
-					<div class="col-xs-12 col-sm-6">
-						<img src="{{ asset('./css/images/image8.jpg')}}" alt="Image" class="img-responsive margin-bottom">
-						<h4><strong>Lorem Ipsum as their default</strong></h4>
-						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', </p>
-					</div>
-
-					<div class="col-xs-12 col-sm-6">
-						<img src="{{ asset('./css/images/image9.jpg')}}" alt="Image" class="img-responsive margin-bottom">
-						<h4><strong>Lorem Ipsum as their default</strong></h4>
-						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', </p>
-					</div>
-				</div>
-			</div>
-		</section>
+		
 	</div>
 </div>
 @endsection

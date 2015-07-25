@@ -75,6 +75,14 @@ jQuery(document).ready(function($) {
 			}
 		});
 
+		// Blur carousel
+		$('.bg-img').foggy({
+			blurRadius: 9,          // In pixels.
+   			opacity: 0.8,           // Falls back to a filter for IE.
+   			cssFilterSupport: true  // Use "-webkit-filter" where available.
+		});
+
+
 });
 
 
@@ -108,3 +116,4 @@ $(window).load(function() {
         fadeOutTime: 1000
     });
 });
+

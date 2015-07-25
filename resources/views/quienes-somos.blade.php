@@ -17,57 +17,20 @@
 		  	<div class="container">
 			    <div class="row">
 			      	<div class="col-xs-12 margin-bottom">
-			        	<h1 class="title-bottom-line"><strong>MEDICINA</strong> DOCTORS</h1>
-			        	<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
+			        	<p>Somos un grupo de profesionales y docentes de la Primera Cátedra de Anatomía del Departamento de Anatomía de la Facultad de Medicina de la Universidad de Buenos Aires que sumamos nuestros esfuerzos para aportar a la educación médica de calidad.</p>
 			      	</div>
 
-			      	<div class="col-xs-12 col-sm-6 col-md-3">
-			        	<div class="members">
-			          		<div class="desc">
-			            		<h2>Dr Jane Underscorer</h2>
-			            		<p>Reader will be distracted by the readable content of a page</p><i class="ion-clipboard"></i>
-			          		</div>
-			          		<img src="{{ asset('./css/images/doctor1.jpg') }}" alt="Image">
-			          		<h4>Neorology</h4>
-			          		<h6>Dr Jane Underscorer</h6>
-			        	</div>
-			      	</div>
-
-			      	<div class="col-xs-12 col-sm-6 col-md-3">
-			        	<div class="members">
-			          		<div class="desc">
-			            		<h2>Dr Jane Underscorer</h2>
-			            		<p>Reader will be distracted by the readable content of a page</p><i class="ion-clipboard"></i>
-			          		</div>
-			          		<img src="{{ asset('./css/images/doctor2.jpg') }}" alt="Image">
-			          		<h4>Neorology</h4>
-			          		<h6>Dr Jane Underscorer</h6>
-			        	</div>
-			      	</div>
-
-			      	<div class="col-xs-12 col-sm-6 col-md-3">
-			        	<div class="members">
-			          		<div class="desc">
-			            		<h2>Dr Jane Underscorer</h2>
-			            		<p>Reader will be distracted by the readable content of a page</p><i class="ion-clipboard"></i>
-			          		</div>
-			          		<img src="{{ asset('./css/images/doctor3.jpg') }}" alt="Image">
-			          		<h4>Neorology</h4>
-			          		<h6>Dr Jane Underscorer</h6>
-			        	</div>
-			      	</div>
-
-			      	<div class="col-xs-12 col-sm-6 col-md-3">
-			        	<div class="members">
-			          		<div class="desc">
-			            		<h2>Dr Jane Underscorer</h2>
-			            		<p>Reader will be distracted by the readable content of a page</p><i class="ion-clipboard"></i>
-			          		</div>
-			          		<img src="{{ asset('./css/images/doctor4.jpg') }}" alt="Image">
-			          		<h4>Neorology</h4>
-			          		<h6>Dr Jane Underscorer</h6>
-			    		</div>
-			      	</div>
+			      	<div class="col-xs-12">
+			        	<h3>Director:</h3> 
+						<p>Dr. Santiago Maffia Bizzozero</p>
+						<h3>Asesor pedagógico:</h3>
+						<p>Dr. Eduardo Teragni</p>
+						<h3>Jefe de Trabajos Prácticos</h3>
+						<p>Dr. Cristhian David Leidi</p>
+						<h3>Auxiliares docentes:</h3> 
+						<p>Sr. Diego Andrés Mendieta</p>
+						<p>Sr. Cristian Fontenla (colaborador externo)</p>	
+			        </div>
 
 			    </div>
 		  	</div>

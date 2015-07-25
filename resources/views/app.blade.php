@@ -179,6 +179,7 @@
 	<script type="text/javascript" src="{{ asset('/js/jquery.slitslider.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('/js/slider-settings.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('/js/queryloader2.min.js') }}"></script>
+	<script type="text/javascript" src="{{ asset('/js/jquery.foggy.min.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('/js/medicina.js') }}"></script>
 </body>
 </html>

@@ -12,9 +12,7 @@
 			          		<div class="sl-slide-inner">
 			            		<div class="bg-img bg-img-1"></div>
 			            		<div class="content">
-			              			<h2>We have more <u>+100</u> surgens to take care of you</h2>
-			              			<!-- <img src="{{ asset('/css/images/pulse.png') }}" alt="Image"><br> -->
-			              			<a href="#" class="btn-turquaz-lg">LEER MÁS</a>
+			              			<img src="{{ asset('/css/images/leonardo-1.jpg') }}" alt="">
 			              		</div> 
 			          		</div>
 			        	</div>
@@ -23,9 +21,7 @@
 			          		<div class="sl-slide-inner">
 			            		<div class="bg-img bg-img-2"></div>
 			            		<div class="content">
-			              			<h2>Our <u>MRI</u> room has been renew for our patients</h2>
-			              			<!-- <img src="{{ asset('/css/images/pulse.png') }}" alt="Image"><br> -->
-			              			<a href="#" class="btn-turquaz-lg">LEER MÁS</a>
+			              			<img src="{{ asset('/css/images/leonardo-2.jpg') }}" alt="">
 			              		</div>
 			            	</div>
 			        	</div>
@@ -34,9 +30,7 @@
 			          		<div class="sl-slide-inner">
 			            		<div class="bg-img bg-img-3"></div>
 			            		<div class="content">
-			              			<h2>Online <u>appointment</u> so easy to get from our new website</h2>
-			              			<!-- <img src="{{ asset('/css/images/pulse.png') }}" alt="Image"><br> -->
-			              			<a href="#" class="btn-turquaz-lg">LEER MÁS</a>
+			              			<img src="{{ asset('/css/images/leonardo-3.jpg') }}" alt="">
 			              		</div>
 			          		</div>
 					    </div>
@@ -45,12 +39,19 @@
 			          		<div class="sl-slide-inner">
 			            		<div class="bg-img bg-img-4"></div>
 			            		<div class="content">
-			              			<h2>30% <u>discount</u> for special thereatment patients</h2>
-			              			<!-- <img src="{{ asset('/css/images/pulse.png') }}" alt="Image"><br> -->
-			              			<a href="#" class="btn-turquaz-lg">LEER MÁS</a>
+			              			<img src="{{ asset('/css/images/leonardo-4.jpg') }}" alt="">
 			              		</div>
 		          			</div>
-	        			</div> 
+	        			</div>
+
+	        			<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
+			          		<div class="sl-slide-inner">
+			            		<div class="bg-img bg-img-5"></div>
+			            		<div class="content">
+			              			<img src="{{ asset('/css/images/leonardo-5.jpg') }}" alt="">
+			              		</div>
+			          		</div>
+					    </div>
 			      	</div>
 			      
 			      	<nav id="nav-arrows" class="nav-arrows">
@@ -63,6 +64,7 @@
 			      		<span></span> 
 			      		<span></span> 
 			      		<span></span>
+			      		<span></span>
 			      	</nav> 
 			    </div> 
 	  		</div>
@@ -72,7 +74,7 @@
 	  		<div class="container">
 			    <div class="row">
 			      	<div class="col-xs-12 wow fadeInUp">
-			        	<h2>Specialities</h2>
+			        	<h2>Especialidades</h2>
 			        	<h5>Consectetuer adipiscing elit, sed diam nonummy</h5>
 			      	</div>
 			      
@@ -146,7 +148,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-center wow fadeInUp">
-						<h2>LATEST NEWS</h2>
+						<h2>Últimas noticias</h2>
 						<h5>Consectetuer adipiscing elit, sed diam nonummy</h5>
 					</div>
 
@@ -179,7 +181,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 wow fadeInUp">
-						<h2>Gallery</h2>
+						<h2>Galería</h2>
 						<h5>Consectetuer adipiscing elit, sed diam nonummy</h5>
 					</div> 
 				</div>
@@ -189,36 +191,36 @@
 				<div class="item">
 					<div class="thumb">
 						<div class="desc">
-							<a href="{{ asset('/css/images/image1.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Emergency</strong> Room <i class="ion-qr-scanner"></i></a>
+							<a href="{{ asset('/images/galeria-uno/5.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Emergency</strong> Room <i class="ion-qr-scanner"></i></a>
 						</div>
-						<img src="{{ asset('/css/images/image1.jpg') }}" alt="Image">
+						<img src="{{ asset('/images/galeria-uno/5.jpg') }}" alt="Image">
 					</div>
 				</div>
 				
 				<div class="item">
 					<div class="thumb">
 						<div class="desc"> 
-							<a href="{{ asset('/css/images/image6.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Medical</strong> Threatment<i class="ion-qr-scanner"></i></a>
+							<a href="{{ asset('/images/galeria-uno/6.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Medical</strong> Threatment<i class="ion-qr-scanner"></i></a>
 						</div>
-						<img src="{{ asset('/css/images/image6.jpg') }}" alt="Image">
+						<img src="{{ asset('/images/galeria-uno/6.jpg') }}" alt="Image">
 					</div>
 				</div>
 				
 				<div class="item">
 					<div class="thumb">
 						<div class="desc">
-							<a href="{{ asset('/css/images/image3.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Research</strong> Lab<i class="ion-qr-scanner"></i></a>
+							<a href="{{ asset('/images/galeria-uno/7.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Research</strong> Lab<i class="ion-qr-scanner"></i></a>
 						</div>
-						<img src="{{ asset('/css/images/image3.jpg') }}" alt="Image">
+						<img src="{{ asset('/images/galeria-uno/7.jpg') }}" alt="Image">
 					</div>
 				</div>
 				
 				<div class="item">
 					<div class="thumb">
 						<div class="desc">
-							<a href="{{ asset('/css/images/image6.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Support</strong> Center<i class="ion-qr-scanner"></i></a>
+							<a href="{{ asset('/images/galeria-uno/8.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Support</strong> Center<i class="ion-qr-scanner"></i></a>
 						</div>
-						<img src="{{ asset('/css/images/image6.jpg') }}" alt="Image">
+						<img src="{{ asset('/images/galeria-uno/8.jpg') }}" alt="Image">
 					</div>
 				</div> 
 			</div> 

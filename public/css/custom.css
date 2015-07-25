@@ -7,17 +7,14 @@
 
 .home-slider .sl-slider .content{
 	padding: 10px;
-	max-width: 580px;
 	color: #fff;
-	margin: 0 auto;
 	position: absolute;
 	z-index: 100;
 	top: 50%;
-	left: 0;
-	-webkit-transform: translate(0, -50%);
-	-ms-transform: translate(0, -50%);
-	transform: translate(0, -50%);
-	width: 100%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
 }
 
 .home-slider .sl-slider .content img { margin:20px 0; }
@@ -133,16 +130,20 @@
 
 
 .home-slider .bg-img-1 {
-	background-image: url(images/banner3.jpg);
+	background-image: url(images/leonardo-1.jpg);
 }
 .home-slider .bg-img-2 {
-	background-image: url(images/banner2.jpg);
+	background-image: url(images/leonardo-2.jpg);
 }
 .home-slider .bg-img-3 {
-	background-image: url(images/banner4.jpg);
+	background-image: url(images/leonardo-3.jpg);
 }
 .home-slider .bg-img-4 {
-	background-image: url(images/banner.jpg);
+	background-image: url(images/leonardo-4.jpg);
+}
+
+.home-slider .bg-img-5 {
+	background-image: url(images/leonardo-5.jpg);
 }
 
 
