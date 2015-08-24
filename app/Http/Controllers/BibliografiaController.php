@@ -4,7 +4,7 @@ class BibliografiaController extends Controller {
 
 	public function index()
 	{
-		return view('Bibliografia');
+		return view('bibliografia');
 	}
 
 }

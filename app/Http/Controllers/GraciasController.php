@@ -4,7 +4,7 @@ class GraciasController extends Controller {
 
 	public function index()
 	{
-		return view('Gracias');
+		return view('gracias');
 	}
 
 }

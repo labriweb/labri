@@ -4,7 +4,7 @@ class ArticulosController extends Controller {
 
 	public function index()
 	{
-		return view('Articulos');
+		return view('articulos');
 	}
 
 }
