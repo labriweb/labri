@@ -31,7 +31,7 @@ class ContactformController extends Controller {
 				'email'		=> $email,
 				'nombre'	=> $nombre,
 				'subject'	=> 'Contacto desde el sitio ',
-				'to'		=> 'martinmasignano@gmail.com'
+				'to'		=> 'smaffia@gmail.com'
 			);
 
 			// the data that will be passed into the mail view blade template
