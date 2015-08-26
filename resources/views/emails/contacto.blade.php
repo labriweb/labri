@@ -9,13 +9,11 @@
 	<table border="0" align="center" cellpadding="0" cellspacing="0" width="600">
 		<thead>
 			<tr>
-				<th align="left">LABRI</th>
-				<th>Contacto</th>
-			</tr>
-			<tr>
-				<th colspan="2" height="4" bgcolor="#f7001a"></th>
+				<th align="left">Contacto desde el sitio</th>
 			</tr>
 		</thead>
+	</table>
+	<table border="0" align="center" cellpadding="0" cellspacing="0" width="600">
 		<tbody>
 			<tr>
 				<td>&nbsp;</td>
@@ -46,11 +44,6 @@
 				<td>&nbsp;</td>
 			</tr>
 		</tbody>
-		<tfoot bgcolor="#363636">
-			<tr>
-				<td colspan="2" height="40"></td>
-			</tr>
-		</tfoot>
 	</table>
 
 </body>

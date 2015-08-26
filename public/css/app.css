@@ -1,3 +1,4 @@
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -3888,10 +3889,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  padding: 15px 15px;
+  padding: 10px 15px;
   font-size: 18px;
   line-height: 20px;
-  height: 50px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -6231,4 +6231,5 @@ label,
 .checkbox label {
   font-weight: 300;
 }
+
 

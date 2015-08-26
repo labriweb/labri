@@ -72,73 +72,76 @@
 
 	  	<section class="home-services text-center wow fadeInUp">
 	  		<div class="container">
-			    <div class="row">
-			      	<div class="col-xs-12 wow fadeInUp">
+				<div class="row">
+					<div class="col-xs-12 wow fadeInUp">
 			        	<h2>Especialidades</h2>
-			        	<h5>Consectetuer adipiscing elit, sed diam nonummy</h5>
 			      	</div>
-			      
-			      	<div class="col-xs-6 col-sm-3">
-			        	<div class="content">
-			          		<div class="line">
-				            	<div class="icon">
-				            		<img src="{{ asset('/css/images/icon1.png') }}" alt="Icon">
-				            	</div>
-			          		</div>
-			          		<h3>CARDIOLOGY</h3>
-			          		<p>Consectetuer adipiscing elit, sed diam nonummy</p>
-			        	</div> 
-			      	</div>
-			      
-			      	<div class="col-xs-6 col-sm-3">
-			        	<div class="content">
-			          		<div class="line">
-			            		<div class="icon">
-			            			<img src="{{ asset('/css/images/icon2.png') }}" alt="Icon">
-			            		</div>
-			          		</div>
-			          		<h3>OPHTHALMOLOGY</h3>
-			          		<p>Consectetuer adipiscing elit, sed diam nonummy</p>
-			        	</div> 
-			      	</div>
-			      
-			      	<div class="col-xs-6 col-sm-3">
-			        	<div class="content">
-			          		<div class="line">
-			            		<div class="icon">
-			            			<img src="{{ asset('/css/images/icon3.png') }}" alt="Icon">
-			            		</div>
-			          		</div>
-			          		<h3>NEUROLOGY</h3>
-			          		<p>Consectetuer adipiscing elit, sed diam nonummy</p>
-			        	</div>
-			      	</div>
-			      
-			      	<div class="col-xs-6 col-sm-3">
-			        	<div class="content">
-			          		<div class="icon">
-			          			<img src="{{ asset('/css/images/icon4.png') }}" alt="Icon">
-			          		</div>
-			          		<h3>DERMATOLOGY</h3>
-			          		<p>Consectetuer adipiscing elit, sed diam nonummy</p>
-			        	</div> 
-			      	</div>
-			      	
-			      	<div class="col-xs-12 wow fadeInUp" data-wow-delay="0.5s">
-			      		<a href="#" class="btn-turquaz-md">CLICK FOR ALL</a>
-			      	</div>
-			    </div> 
-	  		</div> 
+				</div>
+
+			    <div class="row">
+					<div class="col-xs-4">
+						<div class="content">
+							<div class="line">
+								<div class="icon">
+									<i class="material-icons">settings</i>
+								</div>
+							</div>
+							<h3>Modelos estáticos</h3>
+						</div>
+					</div>
+
+					<div class="col-xs-4">
+						<div class="content">
+							<div class="line">
+								<div class="icon">
+									<i class="material-icons">extension</i>
+								</div>
+							</div>
+							<h3>Modelos dinámicos</h3>
+						</div>
+					</div>
+
+					<div class="col-xs-4">
+						<div class="content">
+							<div class="line">
+								<div class="icon">
+									<i class="material-icons">clear_all</i>
+								</div>
+							</div>
+							<h3>Multicortes axiales</h3>
+						</div>
+					</div>
+
+					<div class="col-xs-6">
+						<div class="content">
+							<div class="line">
+								<div class="icon">
+									<i class="material-icons">adb</i>
+								</div>
+							</div>
+							<h3>Simuladores</h3>
+						</div>
+					</div>
+
+					<div class="col-xs-6">
+						<div class="content">
+							<div class="line">
+								<div class="icon">
+							   		<i class="material-icons">dashboard</i>
+								</div>
+							</div>
+							<h3>Macromodelos</h3>
+						</div>
+					</div>
+				</div>
+			</div>
 		</section>
 		
 		<section class="frase overlay text-center">
 			<div class="container">
 				<div class="row">
 				  	<div class="col-xs-12 no-padding wow fadeInUp">
-				  		<img src="{{ asset('/css/images/icon4.png') }}" alt="Image">
-				    	<h2>HEALTHY WEEKEND CHECK UP</h2>
-				    	<h4>Combine your Check - up in Our Hospital with refreshing Bosphorus tour in Istanbul!</h4>
-				    	<a href="#" class="btn-ghost-lg">READ MORE</a>
+				  		<img class="img-responsive" src="{{ asset('/css/images/logo-blanco-grande.png') }}" alt="Labri">
 				    </div>
 				</div> 
 			</div>
@@ -149,7 +152,6 @@
 				<div class="row">
 					<div class="col-xs-12 text-center wow fadeInUp">
 						<h2>Últimas noticias</h2>
-						<h5>Consectetuer adipiscing elit, sed diam nonummy</h5>
 					</div>
 
 					<div class="col-xs-12 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -160,7 +162,7 @@
 						<h3><strong>SPECIAL</strong> THREATMENT</h3>
 						<small>Posted <strong>2nd March </strong>by George Washington</small>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-						<a href="#" class="btn-turquaz-md">READ MORE</a>
+						<a href="{{url ('articulos#art1')}}" class="btn-turquaz-md">Leer más</a>
 					</div>
 				  
 					<div class="col-xs-12 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -171,7 +173,7 @@
 						<h3><strong>DISEASE</strong> CENTER</h3>
 						<small>Posted <strong>2nd March </strong>by George Washington</small>
 						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using, making it look like readable English. </p>
-						<a href="#" class="btn-turquaz-md">READ MORE</a>  
+						<a href="{{url ('articulos#art2')}}" class="btn-turquaz-md">Leer más</a>  
 					</div> 
 				</div> 
 			</div> 
@@ -182,7 +184,7 @@
 				<div class="row">
 					<div class="col-xs-12 wow fadeInUp">
 						<h2>Galería</h2>
-						<h5>Consectetuer adipiscing elit, sed diam nonummy</h5>
+						<h5>Algunos de los modelos disponibles para las actividades de enseñanza.</h5>
 					</div> 
 				</div>
 			</div>

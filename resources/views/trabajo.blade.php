@@ -32,7 +32,7 @@
 						<div class="content">
 							<div class="line">
 								<div class="icon">
-									<img src="{{ asset('./css/images/icon1.png')}}" alt="Icon">
+									<i class="material-icons">settings</i>
 								</div>
 							</div>
 							<h3>Modelos estáticos</h3>
@@ -44,7 +44,7 @@
 						<div class="content">
 							<div class="line">
 								<div class="icon">
-									<img src="{{ asset('./css/images/icon2.png')}}" alt="Icon">
+									<i class="material-icons">extension</i>
 								</div>
 							</div>
 							<h3>Modelos dinámicos</h3>
@@ -56,7 +56,7 @@
 						<div class="content">
 							<div class="line">
 								<div class="icon">
-									<img src="{{ asset('./css/images/icon3.png')}}" alt="Icon">
+									<i class="material-icons">clear_all</i>
 								</div>
 							</div>
 							<h3>Multicortes axiales</h3>
@@ -67,7 +67,7 @@
 					<div class="col-xs-6">
 						<div class="content">
 							<div class="icon">
-								<img src="{{ asset('./css/images/icon4.png')}}" alt="Icon">
+								<i class="material-icons">adb</i>
 							</div>
 							<h3>Simuladores</h3>
 							<p>Se trata de modelos que no solo representan una región topográfica o estructura determinada que, por su complejidad, permiten la práctica de maniobras (inspección y palpación) y procedimientos (punciones, accesos quirúrgicos, etc.) lo que favorece la adquisición de habilidades vinculadas al ejercicio profesional.</p>
@@ -77,7 +77,7 @@
 					<div class="col-xs-6">
 						<div class="content">
 							<div class="icon">
-								<img src="{{ asset('./css/images/icon4.png')}}" alt="Icon">
+								<i class="material-icons">dashboard</i>
 							</div>
 							<h3>Macromodelos</h3>
 							<p>Constituyen reproducciones de estructuras y/o regiones topográficas, por lo general interactivas, que se producen a gran escala.</p>

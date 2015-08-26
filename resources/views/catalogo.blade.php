@@ -18,7 +18,7 @@
 				<div class="row">
 					<div class="col-xs-12 margin-bottom">
 						<h1 class="title-bottom-line"><strong>GALERÍA DE</strong> FOTOS</h1>
-						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
+						<p>Algunos de los modelos disponibles para las actividades de enseñanza.</p>
 					</div>
 
 					<div class="col-xs-12 col-sm-6 col-md-4 no-padding">
