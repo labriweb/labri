@@ -155,26 +155,16 @@
 					</div>
 
 					<div class="col-xs-12 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
-						<div class="article-image">
+						<!-- <div class="article-image">
 							<img src="{{ asset('/css/images/image8.jpg') }}" alt="Image">
 						</div>
-						<img src="{{ asset('/css/images/rated-article.png') }}" alt="Image" class="rated-article">
-						<h3><strong>SPECIAL</strong> THREATMENT</h3>
-						<small>Posted <strong>2nd March </strong>by George Washington</small>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+						<img src="{{ asset('/css/images/rated-article.png') }}" alt="Image" class="rated-article"> -->
+						<h3><strong>DISTINCIÓN</strong></h3>
+						<small>Publicado el <strong>22 de Octubre </strong>por Santiago Maffia</small>
+		       			<p>Nuestros modelos han sido distinguidos con el Premio Agremiación Médica Platense en el LII Congreso Argentino de Anatomía de la Asociación Argentina de Anatomía que se realizó en la Ciudad de La Rioja los días 17 y 18 de septiembre del 2015.</p>
 						<a href="{{url ('articulos#art1')}}" class="btn-turquaz-md">Leer más</a>
 					</div>
 				  
-					<div class="col-xs-12 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
-						<div class="article-image">
-							<img src="{{ asset('/css/images/image9.jpg') }}" alt="Image">
-						</div>
-						<img src="{{ asset('/css/images/rated-article.png') }}" alt="Image" class="rated-article">
-						<h3><strong>DISEASE</strong> CENTER</h3>
-						<small>Posted <strong>2nd March </strong>by George Washington</small>
-						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using, making it look like readable English. </p>
-						<a href="{{url ('articulos#art2')}}" class="btn-turquaz-md">Leer más</a>  
-					</div> 
 				</div> 
 			</div> 
 		</section>
@@ -193,39 +183,44 @@
 				<div class="item">
 					<div class="thumb">
 						<div class="desc">
-							<a href="{{ asset('/images/galeria-uno/5.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Emergency</strong> Room <i class="ion-qr-scanner"></i></a>
+							<a href="{{ asset('/images/galeria-uno/5.jpg')}}" class="fancybox" rel="lightbox" title="Mano muscular (dorso)"><strong>Mano muscular</strong> (dorso) <i class="ion-qr-scanner"></i></a>
 						</div>
-						<img src="{{ asset('/images/galeria-uno/5.jpg') }}" alt="Image">
-					</div>
-				</div>
-				
-				<div class="item">
-					<div class="thumb">
-						<div class="desc"> 
-							<a href="{{ asset('/images/galeria-uno/6.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Medical</strong> Threatment<i class="ion-qr-scanner"></i></a>
-						</div>
-						<img src="{{ asset('/images/galeria-uno/6.jpg') }}" alt="Image">
+						<img src="{{ asset('/images/galeria-uno/5.jpg')}}" alt="Image">
 					</div>
 				</div>
 				
 				<div class="item">
 					<div class="thumb">
 						<div class="desc">
-							<a href="{{ asset('/images/galeria-uno/7.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Research</strong> Lab<i class="ion-qr-scanner"></i></a>
+							<a href="{{ asset('/images/galeria-uno/6.jpg')}}" class="fancybox" rel="lightbox" title="Mano muscular (palma)"><strong>Mano muscular</strong> (palma) <i class="ion-qr-scanner"></i></a>
 						</div>
-						<img src="{{ asset('/images/galeria-uno/7.jpg') }}" alt="Image">
+						<img src="{{ asset('/images/galeria-uno/6.jpg')}}" alt="Image">
 					</div>
 				</div>
 				
 				<div class="item">
 					<div class="thumb">
 						<div class="desc">
-							<a href="{{ asset('/images/galeria-uno/8.jpg') }}" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers"><strong>Support</strong> Center<i class="ion-qr-scanner"></i></a>
+							<a href="{{ asset('/images/galeria-uno/7.jpg')}}" class="fancybox" rel="lightbox" title="Mano ósea (dorso)"><strong>Mano ósea</strong> (dorso) <i class="ion-qr-scanner"></i></a>
 						</div>
-						<img src="{{ asset('/images/galeria-uno/8.jpg') }}" alt="Image">
+						<img src="{{ asset('/images/galeria-uno/7.jpg')}}" alt="Image">
 					</div>
-				</div> 
+				</div>
+				
+				<div class="item">
+					<div class="thumb">
+						<div class="desc">
+							<a href="{{ asset('/images/galeria-uno/8.jpg')}}" class="fancybox" rel="lightbox" title="Mano ósea (palma)"><strong>Mano ósea</strong> (palma) <i class="ion-qr-scanner"></i></a>
+						</div>
+						<img src="{{ asset('/images/galeria-uno/8.jpg')}}" alt="Image">
+					</div>
+				</div>
+
 			</div> 
+
+			<div class="col-xs-12 col-sm-4 col-sm-offset-4">
+				<a href="{{url ('catalogo')}}" class="btn btn-turquaz-md">Ver galería completa</a>
+			</div>
 		</section>
 
 	</div>

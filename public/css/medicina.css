@@ -403,13 +403,15 @@ input[type="text"], input[type="date"], select, textarea:-moz-placeholder { colo
 .gallery{ width:100%;}
 .gallery h2{ font-size:40px; font-weight:700; color:#00aabe; background:url(/images/title-bg.jpg) center bottom no-repeat; padding-bottom:20px;}
 .gallery h5{ margin-bottom:60px; margin-top:10px; display:inline-block;}
-.gallery .thumb{ width:100%; height:250px; float:left; overflow:hidden; position:relative; border:1px solid #fff; position:relative;}
+.gallery .thumb{ width:100%; height:220px; float:left; overflow:hidden; position:relative; border:1px solid #fff;}
 .gallery .thumb .desc{ width:100%; height:100%; position:absolute; left:0; top:0; z-index:2; background:rgba(29,210,200,0); opacity:0; padding-top:10px; color:#fff; font-size:20px; text-align:center;}
 .gallery .thumb .desc{ -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; -ms-transition: all 0.3s ease; transition: all 0.3s ease;}
 .gallery .thumb .desc i{ width:100%; float:left; margin-top:10px;}
-.gallery .thumb img{ width:100%; float:left;}
+.gallery .thumb img{ width:100%; position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); transform: translate(-50%,-50%);}
 .gallery .thumb:hover .desc{ opacity:1;  background:rgba(29,210,200,0.8); padding-top:70px;}
-.gallery a{ width:100%; height:100%; float:left; color:#fff; text-decoration:none;}
+/*.gallery a{ width:100%; height:100%; float:left; color:#fff; text-decoration:none;}*/
+.gallery a {color: #fff; text-decoration: none;}
+.gallery .btn {margin-top: 30px;}
 
 
 

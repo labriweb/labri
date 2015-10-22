@@ -16,49 +16,17 @@
 		<section class="inner-content news-list">
 		  	<div class="container">
 		 		<div class="row">
-		      		<div class="col-xs-12 col-sm-4">
+		      		<!-- <div class="col-xs-12 col-sm-4">
 		      			<img src="{{ asset('./css/images/image4.jpg')}}" alt="Image">
-		      		</div>
-		       		<div class="col-xs-12 col-sm-8" id="art1">
-		        		<h3>Neorology</h3>
-		        		<small>Posted <strong>2nd March </strong>by George Washington</small>
-		       			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum'</p>
+		      		</div> -->
+		       		<div class="col-xs-12" id="art1">
+		        		<h3>Distinción</h3>
+		        		<small>Publicado el <strong>22 de Octubre </strong>por Santiago Maffia</small>
+		       			<p>Nuestros modelos han sido distinguidos con el Premio Agremiación Médica Platense en el LII Congreso Argentino de Anatomía de la Asociación Argentina de Anatomía que se realizó en la Ciudad de La Rioja los días 17 y 18 de septiembre del 2015.</p>
 		       		</div>
 
 		       		<div class="col-xs-12"><hr></div>
 		       		
-		       		<div class="col-xs-12 col-sm-4"> 
-		       			<img src="{{ asset('./css/images/image3.jpg')}}" alt="Image">
-		       		</div>
-		       		<div class="col-xs-12 col-sm-8" id="art2">
-		        		<h3>Neorology</h3>
-		        		<small>Posted <strong>2nd March </strong>by George Washington</small>
-		       			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum'</p>
-		       		</div>
-		       		
-		       		<div class="col-xs-12"><hr></div>
-		       		
-		       		<div class="col-xs-12 col-sm-4">
-		       			<img src="{{ asset('./css/images/image2.jpg')}}" alt="Image">
-		       		</div>
-		       		
-		       		<div class="col-xs-12 col-sm-8">
-		        		<h3>Neorology</h3>
-		        		<small>Posted <strong>2nd March </strong>by George Washington</small>
-		       			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum'</p>
-		       		</div>
-		       
-		       		<div class="col-xs-12"><hr></div>
-		       		
-		       		<div class="col-xs-12 col-sm-4">
-		       			<img src="{{ asset('./css/images/image1.jpg')}}" alt="Image">
-		       		</div>
-
-		       		<div class="col-xs-12 col-sm-8">
-		        		<h3>Neorology</h3>
-		        		<small>Posted <strong>2nd March </strong>by George Washington</small>
-		       			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum'</p>
-		       		</div>
 		    	</div>
 		  	</div>
 		</section>

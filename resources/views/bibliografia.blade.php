@@ -18,22 +18,9 @@
 				<div class="row">
 					<div class="col-sm-6">
 						<ul>
-							<li><a href="#">Biblio 1</a></li>
-							<li><a href="#">Biblio 2</a></li>
-							<li><a href="#">Biblio 3</a></li>
-							<li><a href="#">Biblio 4</a></li>
-							<li><a href="#">Biblio 5</a></li>
-							<li><a href="#">Biblio 6</a></li>
-						</ul>
-					</div>
-					<div class="col-sm-6">
-						<ul>
-							<li><a href="#">Biblio 7</a></li>
-							<li><a href="#">Biblio 8</a></li>
-							<li><a href="#">Biblio 9</a></li>
-							<li><a href="#">Biblio 10</a></li>
-							<li><a href="#">Biblio 11</a></li>
-							<li><a href="#">Biblio 12</a></li>
+							<li><a href="{{ asset('/pdf/aaa-revista-2.pdf')}}" target="_blank">Revista Argentina de Anatomía Online</a></li>
+							<li><a href="{{ asset('/pdf/articulo-aaa-1.pdf')}}" target="_blank">Artículo Asociación Argentina de Anatomía</a></li>
+							<li><a href="{{ asset('/pdf/guia-procedimientos-basicos.pdf')}}" target="_blank">Guía de Procedimientos básicos</a></li>
 						</ul>
 					</div>
 				</div>

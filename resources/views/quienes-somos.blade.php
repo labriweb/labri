@@ -30,7 +30,7 @@
 						<h3>Auxiliares docentes:</h3> 
 						<p>Sr. Diego Andrés Mendieta</p>
 						<p>Sr. Cristian Fontenla (colaborador externo)</p>	
-						<p>Sr. Nicolás Ezequiel Banti (Colaborador externo)</p>	
+						<p>Sr. Nicolás Ezequiel Banti</p>	
 			        </div>
 
 			    </div>
