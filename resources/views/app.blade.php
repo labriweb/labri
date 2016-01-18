@@ -74,7 +74,7 @@
 			        <div class="col-xs-12">
 			        	<a class="navbar-brand" href="{{ url('/') }}"><img src="{{ asset('/css/images/logo-white.png') }}" alt="LABRI"></a>
 						<div class="pull-right">
-							<span class="phone hidden-xs">Laboratorio de Recursos Instruccionales</span>
+							<span class="phone hidden-xs">Laboratorioxxxxx de Recursos Instruccionales</span>
 						</div>
 			        </div>
 			        <!-- end col-12 -->
